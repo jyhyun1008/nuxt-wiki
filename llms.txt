@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-- [소개](https://docs-template.nuxt.dev/getting-started): Welcome to Nuxt UI documentation template.
+- [소개](https://docs-template.nuxt.dev/getting-started): 어디까지나 섬세하고 아름다운 RPG
 
 ## Essentials
 
