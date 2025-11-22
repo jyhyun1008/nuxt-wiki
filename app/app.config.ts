@@ -15,7 +15,7 @@ export default defineAppConfig({
     siteName: 'Nuxt Docs Template'
   },
   header: {
-    title: '일단 비공식위키',
+    title: '오버필드 비공식 위키',
     to: '/',
     logo: {
       alt: '',
