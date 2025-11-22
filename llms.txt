@@ -8,13 +8,11 @@
 
 ## Getting Started
 
-- [Introduction](https://docs-template.nuxt.dev/getting-started): Welcome to Nuxt UI documentation template.
-- [Installation](https://docs-template.nuxt.dev/getting-started/installation): Get started with Nuxt UI documentation template.
-- [Usage](https://docs-template.nuxt.dev/getting-started/usage): Learn how to write and customize your documentation.
+- [소개](https://docs-template.nuxt.dev/getting-started): Welcome to Nuxt UI documentation template.
 
 ## Essentials
 
-- [Markdown Syntax](https://docs-template.nuxt.dev/essentials/markdown-syntax): Text, title, and styling in standard markdown.
-- [Code Blocks](https://docs-template.nuxt.dev/essentials/code-blocks): Display inline code and code blocks
-- [Prose Components](https://docs-template.nuxt.dev/essentials/prose-components): Components to help you structure your content.
-- [Images and Embeds](https://docs-template.nuxt.dev/essentials/images-embeds): Add image, video, and other HTML elements
+- [마크다운 문법](https://docs-template.nuxt.dev/essentials/markdown-syntax): 기본적인 마크다운 문법입니다.
+- [코드 블록](https://docs-template.nuxt.dev/essentials/code-blocks): 본 위키 특성상 코드블록은 잘 안 쓰겠지요. 그래도 혹시 몰라 첨부해 봅니다.
+- [자주 사용되는 틀](https://docs-template.nuxt.dev/essentials/prose-components): Components to help you structure your content.
+- [이미지 및 임베딩](https://docs-template.nuxt.dev/essentials/images-embeds): Add image, video, and other HTML elements
