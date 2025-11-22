@@ -20,6 +20,24 @@
   --color-green-950: #052E16;
 }
 
+@font-face {
+    font-family: 'Binggre';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Binggre';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/Binggrae-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+
 :root {
   --ui-container: var(--container-8xl);
+}
+
+* {
+  font-family:'Binggre';
 }

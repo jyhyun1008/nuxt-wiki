@@ -15,7 +15,7 @@ export default defineAppConfig({
     siteName: 'Nuxt Docs Template'
   },
   header: {
-    title: '',
+    title: '일단 비공식위키',
     to: '/',
     logo: {
       alt: '',
