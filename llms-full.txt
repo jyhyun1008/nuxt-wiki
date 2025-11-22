@@ -152,11 +152,11 @@ For linking within your documentation, use root-relative paths like `/getting-st
 ---
 class: "[&>div]:*:my-0"
 ---
-[Installation](https://docs-template.nuxt.dev/getting-started/installation)
+[Installation](https://docs-template.nuxt.dev)
 
 #code
 ```mdc
-[Installation](/getting-started/installation)
+[Installation](/)
 ```
 ::
 
@@ -769,7 +769,7 @@ class: "[&>div]:*:my-0"
     icon: i-lucide-circle-help
     label: Is Nuxt UI v3 compatible with standalone Vue projects?
     ---
-    Nuxt UI is now compatible with Vue! You can follow the [installation guide](https://docs-template.nuxt.dev/getting-started/installation) to get started.
+    Nuxt UI is now compatible with Vue! You can follow the [installation guide](https://docs-template.nuxt.dev) to get started.
     ::::
   :::
 
@@ -782,7 +782,7 @@ The transition to v3 involves significant changes, including new component struc
 :::
 
 :::accordion-item{label="Is Nuxt UI v3 compatible with standalone Vue projects?" icon="i-lucide-circle-help"}
-Nuxt UI is now compatible with Vue! You can follow the [installation guide](/getting-started/installation) to get started.
+Nuxt UI is now compatible with Vue! You can follow the [installation guide](/) to get started.
 :::
 
 ::
