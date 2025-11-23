@@ -61,12 +61,12 @@ export default defineNuxtConfig({
   },
 
   llms: {
-    domain: 'https://docs-template.nuxt.dev/',
-    title: 'Nuxt Docs Template',
-    description: 'A template for building documentation with Nuxt UI and Nuxt Content.',
+    domain: 'https://wiki.howeverina.studio/',
+    title: '오버필드 비공식 위키',
+    description: '오버필드에 대한 정보를 정리하는 공간입니다.',
     full: {
-      title: 'Nuxt Docs Template - Full Documentation',
-      description: 'This is the full documentation for the Nuxt Docs Template.'
+      title: '오버필드 비공식 위키',
+      description: '오버필드에 대한 정보를 정리하는 공간입니다.'
     },
     sections: [
       {

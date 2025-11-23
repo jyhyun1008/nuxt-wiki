@@ -52,7 +52,7 @@ async function copyPage() {
 <template>
   <UButtonGroup>
     <UButton
-      label="Copy page"
+      label="페이지 복사"
       :icon="copied ? 'i-lucide-copy-check' : 'i-lucide-copy'"
       color="neutral"
       variant="outline"

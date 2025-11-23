@@ -52,18 +52,18 @@ export default defineAppConfig({
     }]
   },
   toc: {
-    title: 'Table of Contents',
+    title: '목차',
     bottom: {
-      title: 'Community',
+      title: '커뮤니티',
       edit: 'https://github.com/jayhyun1008/nuxt-wiki/edit/main/content',
       links: [{
         icon: 'i-lucide-star',
-        label: 'Star on GitHub',
+        label: '깃허브에서 보기',
         to: 'https://github.com/jayhyun1008/nuxt-wiki',
         target: '_blank'
       }, {
         icon: 'i-lucide-book-open',
-        label: 'Nuxt UI docs',
+        label: 'Nuxt UI에 대해서...',
         to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
         target: '_blank'
       }]
