@@ -11,7 +11,7 @@
   ---
   icon: i-lucide-book-user
   title: 캐릭터
-  to: https://docs-template.nuxt.dev/characters/
+  to: https://wiki.howeverina.studio/characters/
   ---
   글섭 캐릭터 목록
   :::
@@ -20,12 +20,12 @@
   ---
   icon: i-lucide-layout-grid
   title: 아이템
-  to: https://docs-template.nuxt.dev/items/
+  to: https://wiki.howeverina.studio/items/
   ---
   재화 및 아이템 목록
   :::
 
-  :::card{icon="i-lucide-map" title="맵" to="https://docs-template.nuxt.dev/maps/"}
+  :::card{icon="i-lucide-map" title="맵" to="https://wiki.howeverina.studio/maps/"}
   맵 목록 및 얻을 수 있는 자료들
   :::
 
@@ -33,7 +33,7 @@
   ---
   icon: i-simple-icons-nuxtdotjs
   title: 생활
-  to: https://docs-template.nuxt.dev/life/
+  to: https://wiki.howeverina.studio/life/
   ---
   요리/방직/낚시/채집 등
   :::
@@ -73,50 +73,50 @@ class: "[&>div]:*:my-0"
 
 ### 부제목
 
-Use subtitles to divide sections further. They create a more detailed content hierarchy for better readability.
+섹션을 추가로 나누기 위해 **부제목**을 사용합니다. 내용의 계층을 구분하면 더 가독성 좋은 문서를 만들 수 있습니다.
 
 ::code-preview
 ---
 class: "[&>div]:*:my-0"
 ---
-### Subtitles
+### 부제목
 
 #code
 ```mdc
-### Subtitles
+### 부제목
 ```
 ::
 
 ::tip
-Each title and subtitle creates an anchor and shows up automatically in the table of contents.
+각 제목과 부제목은 앵커(클릭할 수 있는 링크)를 만들며, 문서 목차에 자동으로 나타납니다.
 ::
 
-## Text Formatting
+## 텍스트 서식
 
-Nuxt UI supports most Markdown formatting options.
+마크다운 서식의 대부분을 적용할 수 있습니다.
 
-| Style  | How to use   | Result     |
-| ------ | ------------ | ---------- |
-| Bold   | `**bold**`   | **Bold**   |
-| Italic | `*italic*`   | *Italic*   |
-| Strike | `~~strike~~` | ~~Strike~~ |
+| 서식   | 적용 방법     | 결과      |
+| ---- | --------- | ------- |
+| 굵게   | `**굵게**`  | **굵게**  |
+| 기울이기 | `*기울이기*`  | *기울이기*  |
+| 취소선  | `~~취소선~~` | ~~취소선~~ |
 
-Combine formatting for richer text styles and visual emphasis.
+각 서식은 합쳐서 사용할 수 있습니다.
 
-| Style         | How to use          | Result            |
-| ------------- | ------------------- | ----------------- |
-| Bold Italic   | `**_bold italic_**` | ***Bold Italic*** |
-| Bold Strike   | `~~**bold**~~`      | ~~**Bold**~~      |
-| Italic Strike | `~~*italic*~~`      | ~~*Italic*~~      |
+| 서식       | 적용 방법            | 결과             |
+| -------- | ---------------- | -------------- |
+| 굵게 기울이기  | `**_굵게 기울이기_**`  | ***굵게 기울이기***  |
+| 굵게 취소선   | `~~**굵게 취소선**~~` | ~~**굵게 취소선**~~ |
+| 취소선 기울이기 | `~~*취소선 기울이기*~~` | ~~*취소선 기울이기*~~ |
 
-For exponents, indices, or mathematical notations, use HTML `<sup>` and `<sub>` tags.
+수학적 표기 등을 위해 HTML의 `<sup>` 및 `<sub>` 태그를 적용할 수 있습니다.
 
-| Style       | How to use               | Result      |
-| ----------- | ------------------------ | ----------- |
-| Superscript | `<sup>superscript</sup>` | superscript |
-| Subscript   | `<sub>subscript</sub>`   | subscript   |
+| Style | How to use         | Result |
+| ----- | ------------------ | ------ |
+| 위 첨자  | `<sup>위 첨자</sup>`  | 위 첨자   |
+| 아래 첨자 | `<sub>아래 첨자</sub>` | 아래 첨자  |
 
-## Links
+## 링크
 
 Links connect different parts of your documentation and external resources, essential for user navigation and providing references.
 To create a link, wrap the link text in brackets `[]()`.
@@ -133,7 +133,7 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-### Internal links
+### 내부 문서 링크
 
 For linking within your documentation, use root-relative paths like `/getting-started/installation`.
 
@@ -141,7 +141,7 @@ For linking within your documentation, use root-relative paths like `/getting-st
 ---
 class: "[&>div]:*:my-0"
 ---
-[Installation](https://docs-template.nuxt.dev)
+[Installation](https://wiki.howeverina.studio)
 
 #code
 ```mdc
@@ -149,11 +149,11 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-## Lists
+## 목록
 
 Organize related items in a structured, readable format. Markdown supports unordered, ordered, and nested lists for various content needs.
 
-### Unordered
+### 순서 없는 목록
 
 Use unordered lists for items without a specific sequence. Start each item with a `-` symbol.
 
@@ -173,7 +173,7 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-### Ordered
+### 순서 있는 목록
 
 Use ordered lists when item order matters, like steps in a process. Start each item with a number.
 
@@ -193,7 +193,7 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-### Nested
+### 2차 목록
 
 Create hierarchical lists with sub-items for complex structures. Indent sub-items by four spaces for nesting.
 
@@ -216,7 +216,7 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-## Tables
+## 표
 
 Present structured data in rows and columns clearly. Tables are ideal for comparing data or listing properties.
 
@@ -240,11 +240,11 @@ class: "[&>div]:*:my-0 [&>div]:*:w-full"
 ```
 ::
 
-## Blockquotes
+## 인용문
 
 Highlight important quotations, citations, or emphasized text. Blockquotes visually distinguish quoted content.
 
-### Singleline
+### 한 줄 인용
 
 Single-line blockquotes are best for short, impactful quotes or citations that fit within a single line. To create a single-line blockquote, add a `>` in front of a paragraph. Ideal for short and impactful quotes.
 
@@ -260,7 +260,7 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-### Multiline
+### 여러 줄 인용
 
 Multi-line blockquotes are suitable for longer quotes or when you need to include multiple paragraphs within a single quotation.
 
@@ -283,9 +283,9 @@ class: "[&>div]:*:my-0"
 
 # 코드 블록
 
-## Basic
+## 기본
 
-### Inline Code
+### 인라인 코드
 
 Use inline code to display code snippets within text paragraphs. It's ideal for referencing code elements directly in sentences.
 
@@ -301,7 +301,7 @@ class: "[&>div]:*:my-0"
 ```
 ::
 
-### Code Blocks
+### 코드 블록
 
 Use code blocks to display multi-line code snippets with syntax highlighting. Code blocks are essential for presenting code examples clearly.
 
@@ -381,7 +381,7 @@ export default defineAppConfig({
 ```
 ::
 
-#### Highlight Line
+#### 강조된 행
 
 To highlight lines of code, add `{}` around the line numbers you want to highlight.
 Line highlighting is useful for focusing users on important parts of code examples.
@@ -416,9 +416,9 @@ export default defineAppConfig({
 ````
 ::
 
-## Advanced
+## 고급
 
-### CodeGroup
+### 코드 그룹
 
 Group code blocks in tabs using `code-group`. `code-group` is perfect for showing code examples in multiple languages or package managers.
 
@@ -468,11 +468,11 @@ bun add @nuxt/ui
 ````
 ::
 
-::note{to="https://docs-template.nuxt.dev/#pre"}
+::note{to="https://wiki.howeverina.studio/#pre"}
 Like the `ProsePre` component, the `CodeGroup` handles filenames, icons and copy button.
 ::
 
-### CodeTree
+### 코드 트리
 
 Display code blocks in a file tree view using `code-tree`. `code-tree` is excellent for showcasing project structures and file relationships.
 
@@ -634,7 +634,7 @@ to: https://ui.nuxt.com/getting-started/typography#codetree
 Learn more about the `code-tree` component.
 ::
 
-### `CodePreview`
+### 미리보기 `CodePreview`
 
 Use `code-preview` to show code output alongside the code. `code-preview` is ideal for interactive examples and demonstrating code results.
 Write the code to be previewed in a the `default` slot and the actual code in the `code` slot.
@@ -669,7 +669,7 @@ label: Preview
 ````
 ::
 
-### `CodeCollapse`
+### 펼치기/접기 `CodeCollapse`
 
 Use `code-collapse` for long code blocks to keep pages clean. `code-collapse` allows users to expand code blocks only when needed, improving readability.
 
@@ -758,7 +758,7 @@ class: "[&>div]:*:my-0"
     icon: i-lucide-circle-help
     label: Is Nuxt UI v3 compatible with standalone Vue projects?
     ---
-    Nuxt UI is now compatible with Vue! You can follow the [installation guide](https://docs-template.nuxt.dev) to get started.
+    Nuxt UI is now compatible with Vue! You can follow the [installation guide](https://wiki.howeverina.studio) to get started.
     ::::
   :::
 
