@@ -11,7 +11,7 @@
   ---
   icon: i-lucide-book-user
   title: 캐릭터
-  to: https://docs-template.nuxt.dev/characters/character-list
+  to: https://docs-template.nuxt.dev/characters/
   ---
   글섭 캐릭터 목록
   :::
@@ -20,17 +20,12 @@
   ---
   icon: i-lucide-layout-grid
   title: 아이템
-  to: https://docs-template.nuxt.dev/items/items-list
+  to: https://docs-template.nuxt.dev/items/
   ---
   재화 및 아이템 목록
   :::
 
-  :::card
-  ---
-  icon: i-lucide-map
-  title: 맵
-  to: https://docs-template.nuxt.dev/maps/maps-list
-  ---
+  :::card{icon="i-lucide-map" title="맵" to="https://docs-template.nuxt.dev/maps/"}
   맵 목록 및 얻을 수 있는 자료들
   :::
 
@@ -38,7 +33,7 @@
   ---
   icon: i-simple-icons-nuxtdotjs
   title: 생활
-  to: https://docs-template.nuxt.dev/life
+  to: https://docs-template.nuxt.dev/life/
   ---
   요리/방직/낚시/채집 등
   :::
