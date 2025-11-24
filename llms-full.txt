@@ -55,6 +55,26 @@ This template includes a range of features designed to streamline documentation 
 - **Extensive Functionality**: Explore the template to fully appreciate its capabilities.
 
 
+# OST
+
+## 이미지 송: あるく (걸어가)
+
+:iframe{allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameBorder="0" referrerPolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/aJ4etQsfrGE" style="aspect-ratio: 16/9;" title="YouTube video player"}
+
+Song by とた
+
+오버필드의 이미지 송이다.
+
+::accordion
+  :::accordion-item{icon="i-lucide-list-music" label="가사"}
+  :::
+::
+
+참고로, 벚꽃 세계·밤에서 흘러나오는 OST 중 두번째 곡이 이 곡의 피아노 버전이다...라기엔 후반에 스트링, 드럼, 베이스도 나온다.
+
+:iframe{allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameBorder="0" referrerPolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/dK-zdeuFpk4" style="aspect-ratio: 16/9;" title="YouTube video player"}
+
+
 # 마크다운 문법
 
 ## 제목
