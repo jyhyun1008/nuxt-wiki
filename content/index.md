@@ -12,7 +12,7 @@ orientation: horizontal
 :hero-background
 
 #title
-섬세하고 아름다운 [탐험 RPG]{.text-primary}.
+섬세하고 아름다운 <br>[탐험 RPG]{.text-primary}.
 
 #description
 ...를 플레이 하면서 알게 된 점을 정리하고 있어요.
