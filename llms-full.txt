@@ -4,9 +4,11 @@
 본 페이지는 `Nuxt UI Docs` 템플릿을 사용해 만들어졌으며, 깃허브 페이지 기능을 이용해서 배포되었습니다. '경기천년제목'이란 서체를 사용하고 있습니다.
 ::
 
-![](https://wiki.howeverina.studio/images/logo.png)
+![](https://wiki.howeverina.studio/images/titlebg.jpg)
 
-본 위키는 현재까지는 100% 유저 한 명에 의해 작성된 비공식 위키입니다. 플레이 중 알게 된 정보를 바탕으로 작성하므로 누락된 정보는 상당히 많은 편이며, 잘못된 정보가 포함되어 있을 수 있습니다. 최대한 인게임 내 텍스트를 반영하고 있지만, 미번역 부분이라든지 오탈자 부분은 수정해서 올리고 있습니다.
+**개방공간: Over Field**의 로그인 화면.
+
+본 위키는 현재까지는 100% 유저 한 명에 의해 작성된 비공식 팬 페이지입니다. 느긋하게 게임을 진행하는 유저가 플레이 중 알게 된 정보를 바탕으로 작성하므로 누락된 정보는 상당히 많은 편이며, 잘못된 정보가 포함되어 있을 수 있습니다. 최대한 인게임 내 텍스트를 반영하고 있지만, 미번역 부분이라든지 오탈자 부분은 수정해서 올리고 있습니다. 이외의 부분은 [공식 홈페이지](https://kr.overfieldgame.com/){rel="nofollow"} 및 [오버필드 중문 위키](https://wiki.biligame.com/kfkjof/%E9%A6%96%E9%A1%B5){rel="nofollow"} 에서 가져오고 있습니다.
 
 ::card-group
   :::card
@@ -43,16 +45,12 @@
 
 ## 게임 정보
 
-This template includes a range of features designed to streamline documentation management:
+오버필드 KR 홈페이지에서 발췌
 
-- **Powered by** [**Nuxt**](https://nuxt.com){rel="nofollow"}: Utilizes the latest Nuxt framework for optimal performance.
-- **Built with** [**Nuxt UI**](https://ui.nuxt.com){rel="nofollow"}: Integrates a comprehensive suite of UI components.
-- [**MDC Syntax**](https://content.nuxt.com/usage/markdown){rel="nofollow"} **via** [**Nuxt Content**](https://content.nuxt.com){rel="nofollow"}: Supports Markdown with component integration for dynamic content.
-- **Auto-generated Sidebar Navigation**: Automatically generates navigation from content structure.
-- **Full-Text Search**: Includes built-in search functionality for content discovery.
-- **Optimized Typography**: Features refined typography for enhanced readability.
-- **Dark Mode**: Offers dark mode support for user preference.
-- **Extensive Functionality**: Explore the template to fully appreciate its capabilities.
+- **제목**: 개방공간: Over Field
+- **장르**: 섬세하고 아름다운 탐험 RPG
+- **가격**: 무료(일부 아이템 유료)
+- **지원 기기**: iOS, Android, PC
 
 
 # OST

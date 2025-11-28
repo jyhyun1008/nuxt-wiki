@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-- [개방공간: OverField](https://wiki.howeverina.studio/getting-started): 어디까지나 섬세하고 아름다운 RPG
+- [개방공간: OverField](https://wiki.howeverina.studio/getting-started): 섬세하고 아름다운 탐험 RPG
 - [OST](https://wiki.howeverina.studio/getting-started/ost): 기존에 공개된 OST를 다룹니다.
 
 ## Essentials
