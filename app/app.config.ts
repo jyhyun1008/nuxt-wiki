@@ -12,7 +12,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt Docs Template'
+    siteName: '오버필드 비공식 위키'
   },
   header: {
     title: '오버필드 비공식 위키',

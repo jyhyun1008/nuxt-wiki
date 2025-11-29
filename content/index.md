@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Nuxt Docs Template
-  description: Create stunning, fast and SEO-optimized documentation sites with Nuxt UI.
+  title: 오버필드 비공식 위키
+  description: 느긋하게 게임을 진행하는 유저가 플레이 중 알게 된 정보를 바탕으로 작성하는 위키
 ---
 
 ::u-page-hero{class="dark:bg-gradient-to-b from-neutral-900 to-neutral-950 titlebg"}

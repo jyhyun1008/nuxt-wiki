@@ -63,10 +63,10 @@ export default defineNuxtConfig({
   llms: {
     domain: 'https://wiki.howeverina.studio/',
     title: '오버필드 비공식 위키',
-    description: '오버필드에 대한 정보를 정리하는 공간입니다.',
+    description: '느긋하게 게임을 진행하는 유저가 플레이 중 알게 된 정보를 바탕으로 작성하는 위키',
     full: {
       title: '오버필드 비공식 위키',
-      description: '오버필드에 대한 정보를 정리하는 공간입니다.'
+      description: '느긋하게 게임을 진행하는 유저가 플레이 중 알게 된 정보를 바탕으로 작성하는 위키'
     },
     sections: [
       {
